@@ -12,6 +12,9 @@ Credits:
 	Icons:
 		Font Awesome (fontawesome.io)
 
+	Favicon:
+		Favicon.cc (favicon.cc)
+
 	Other:
 		jQuery (jquery.com)
 		Responsive Tools (github.com/ajlkn/responsive-tools)
